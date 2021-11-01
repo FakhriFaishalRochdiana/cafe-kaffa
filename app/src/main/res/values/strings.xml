@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KaffaCafe</string>
+    <string name="Desc_KH">Kopi Hitam Racikan khas barista kami. Rasa kopi hitam yang otentik akan memberikan pengalaman ngopi anda semakin berharga</string>
+    <string name="Desc_CO">Kopi Cappuchino dengan racikan khas yang dibuat agar anda dapat menikmati Cappuchino dengan maksimal</string>
+    <string name="Desc_DT">Donut manis dengan berbagai macam topping yang bisa anda nikmati bersama dengan secangkir kopi pilihan anda</string>
+    <string name="Desc_ST">Cita rasa Sparkling Tea yang tidak akan anda lupakan.</string>
+    <string name="Desc_CC">Cheesecake ini merupakan kebanggaan salah satu pegawai kami. sepotong cheesecake lembut dengan saus beri diatasnya akan memanjakan lidah anda para pecinta cheesecake.</string>
+</resources>
